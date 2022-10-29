@@ -24,7 +24,7 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Energizado por React [Powered by React]',
+    title: 'Energizado por React  [Powered by React]',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>

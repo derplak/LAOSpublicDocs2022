@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Docusaurus Site',
-  tagline: 'Dinosaurs never existed, do you understand?',
+  title: 'Mi Sitio de Docusaurus 🌿',
+  tagline: 'Los Dinosaurios nunca existieron, ¿entendido?',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -57,7 +57,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'LAOS Public Docs',
+        title: 'LAOS — Public WD Wiki',
         logo: {
           alt: 'Shiva Logo',
           src: 'img/logo.svg',
@@ -67,9 +67,9 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: 'Docusaurus Tutorial',
+            label: 'Tutorial Docusaurus',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'AVS Blog', position: 'left'},
           {
             href: 'https://github.com/facebook/docusaurus',
             label: 'GitHub',
